@@ -37,7 +37,7 @@
                 android:fontFamily="sans-serif"
                 android:text="Nombre producto"
                 android:textColor="#FFFFFF"
-                android:textSize="25dp" />
+                android:textSize="22dp" />
 
             <TextView
                 android:id="@+id/celdaProducto_TextView_Precio"
@@ -48,7 +48,7 @@
                 android:text="Precio"
                 android:fontFamily="sans-serif"
                 android:textColor="#FFFFFF"
-                android:textSize="25dp" />
+                android:textSize="22dp" />
         </LinearLayout>
     </LinearLayout>
 
